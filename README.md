@@ -11,7 +11,7 @@
 ------------------
 ## پروژه
 
-- []()
+- [عملکرد بدافزاز ها](https://github.com/mojdesaryari/PNU_3991_AR/blob/main/%D9%BE%D8%B1%D9%88%DA%98%D9%87.pdf)
 
 
 ## بخش دروس کارشناسی
@@ -24,5 +24,5 @@
 
 # [فایل های پروژه]
 
-- [پروژه]()
+- [پروژه](https://github.com/mojdesaryari/PNU_3991_AR/blob/main/%D9%BE%D8%B1%D9%88%DA%98%D9%87.pdf)
  
