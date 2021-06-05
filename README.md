@@ -6,7 +6,7 @@
 
 - [رزومه](https://github.com/mojdesaryari/PNU_3991_AR/blob/main/RESOME.pdf)
 
-- [SOP]()
+- [SOP](https://github.com/mojdesaryari/PNU_3991_AR/blob/main/SOP.pdf)
 
 ------------------
 ## پروژه
